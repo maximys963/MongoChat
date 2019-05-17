@@ -1,0 +1,14 @@
+{
+  "name": "server-mongo-chat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+   "start": "node server.js"
+  },
+  "autjor": "Maxim",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.2.4",
+    "socket.io": "^2.2.0"
+  }
+}
